@@ -37,15 +37,6 @@ I'm a student interested in software development, programming, data analysis, an
 
 - GitHub: [My GitHub Profile](https://github.com/12250115gcit-prog)
 
-  ## 🌐 My Portfolio
-
-Check out my personal developer portfolio:
-
-[Visit My Portfolio](https://12250115gcit-prog.github.io/Portfolio/)
-
-
----
-
 ## 🌐 My Portfolio Website
 
 I have created a personal portfolio website to showcase my technical skills, projects and development journey.
