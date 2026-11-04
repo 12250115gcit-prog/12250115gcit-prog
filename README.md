@@ -8,29 +8,20 @@ Welcome to my GitHub profile!
 I'm a student interested in software development, programming, data analysis, and building useful applications.
 
 
-## 💻 Technical Skills
+## 🌈 Technical Skills
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&perline=8" />
 </p>
 
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<p align="center">
+  **Python** • **Java** • **HTML** • **CSS** • **JavaScript** • **Git** • **GitHub** • **VS Code**
 </p>
 
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 📊 Data Analysis
+<p align="center">
+  Pandas&nbsp; • &nbsp;NumPy&nbsp; • &nbsp;Matplotlib&nbsp; • &nbsp;Jupyter Notebook
 </p>
-
-### Data Analysis
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-
 
 - **Sleep Health and Lifestyle Analysis:** Analyzing the relationship between sleep duration, stress levels, and sleep quality using Python.
 - **Web Application Development:** Working on web application development using modern programming tools.
