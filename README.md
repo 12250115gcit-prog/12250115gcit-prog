@@ -44,6 +44,25 @@ Check out my personal developer portfolio:
 [Visit My Portfolio](https://12250115gcit-prog.github.io/Portfolio/)
 
 
+---
+
+## 🌐 My Portfolio Website
+
+I have created a personal portfolio website to showcase my technical skills, projects and development journey.
+
+🚀 **Explore my portfolio:**
+
+[Visit My Portfolio](https://12250115gcit-prog.github.io/Portfolio/)
+
+---
+
+## 📌 Featured Projects
+
+- Sleep Health and Lifestyle Analysis
+- Web Application Development
+- Personal Portfolio Website
+
+
 <!--
 **12250115gcit-prog/12250115gcit-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
