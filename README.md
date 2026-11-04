@@ -8,21 +8,21 @@ Welcome to my GitHub profile!
 I'm a student interested in software development, programming, data analysis, and building useful applications.
 
 
-## 🌈 Technical Skills
+## 🚀 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nodejs,express,bootstrap&perline=12" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,git,github,gitlab,vscode,linux,docker,postman,figma&perline=12" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,aws,azure,vercel,netlify,npm,bash,powershell&perline=12" />
 </p>
 
 <p align="center">
-  **Python** • **Java** • **HTML** • **CSS** • **JavaScript** • **Git** • **GitHub** • **VS Code**
+  **Programming** • **Web Development** • **Databases** • **Data Science** • **AI & Machine Learning** • **Cloud Computing** • **DevOps** • **UI/UX Design**
 </p>
-
-### 📊 Data Analysis
-<p align="center">
-  Pandas&nbsp; • &nbsp;NumPy&nbsp; • &nbsp;Matplotlib&nbsp; • &nbsp;Jupyter Notebook
-</p>
-
 - **Sleep Health and Lifestyle Analysis:** Analyzing the relationship between sleep duration, stress levels, and sleep quality using Python.
 - **Web Application Development:** Working on web application development using modern programming tools.
 
