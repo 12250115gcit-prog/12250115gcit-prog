@@ -37,6 +37,12 @@ I'm a student interested in software development, programming, data analysis, an
 
 - GitHub: [My GitHub Profile](https://github.com/12250115gcit-prog)
 
+  ## 🌐 My Portfolio
+
+Check out my personal developer portfolio:
+
+[Visit My Portfolio](https://12250115gcit-prog.github.io/Portfolio/)
+
 
 <!--
 **12250115gcit-prog/12250115gcit-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
